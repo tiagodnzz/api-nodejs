@@ -1,0 +1,9 @@
+#Pacotes do node.js
+node_modules/
+
+#Arquivo de Ambiente
+.env
+
+# Dados do sistema
+.DS_Store
+Thumbs.db
